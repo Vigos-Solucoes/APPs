@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">TeamSpeak</title>
+  <desc id="desc">TeamSpeak logo</desc>
+  <rect width="64" height="64" rx="14" fill="#fff" />
+  <g fill="none" stroke="#2583d8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 35v-8c0-9 6.5-15 15-15s15 6 15 15v8" stroke-width="6" />
+    <path d="M17 35c0-4 2.5-7 6-7h3v17h-3c-3.5 0-6-3-6-7v-3Z" fill="#2583d8" stroke-width="3" />
+    <path d="M47 35c0-4-2.5-7-6-7h-3v17h3c3.5 0 6-3 6-7v-3Z" fill="#2583d8" stroke-width="3" />
+    <path d="M39 45c-2 3-4.5 4.5-8 4.5h-4" stroke-width="5" />
+  </g>
+  <circle cx="25" cy="49.5" r="3.5" fill="#2583d8" />
+</svg>
